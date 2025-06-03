@@ -1,0 +1,4 @@
+Erro: Erro grave!! (LogFileMixin)
+Sucesso: Sucesso Mulecote!! (LogFileMixin)
+Erro: Erro grave!! (LogFileMixin)
+Sucesso: Sucesso Mulecote!! (LogFileMixin)
